@@ -76,11 +76,11 @@ Predicted Label
 
 ## 💾 Save the Trained Model
 ## 🛠️ Technologies Used
-Python
-TensorFlow / Keras
-Google Colab (GPU)
-Matplotlib
-NumPy / Pandas
+- 🐍 **Python**  
+- 🔶 **TensorFlow / Keras**  
+- 💻 **Google Colab (GPU)**  
+- 📊 **Matplotlib**  
+- 🧮 **NumPy / Pandas**
 
 ## 🧠 Key Learnings
 Image classification with CNNs
